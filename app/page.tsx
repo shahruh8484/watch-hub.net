@@ -165,7 +165,12 @@ export default function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="text-center">
               <div className="relative w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
-                <Image src="/antique-pocket-watch-from-1510-peter-henlein-histo.jpg" alt="Historical pocket watch" fill className="object-cover" />
+                <Image
+                  src="/antique-pocket-watch-from-1510-peter-henlein-histo.jpg"
+                  alt="Historical pocket watch"
+                  fill
+                  className="object-cover"
+                />
               </div>
               <h3 className="text-xl font-bold mb-2">500 Years Old</h3>
               <p className="text-muted-foreground">
@@ -190,7 +195,12 @@ export default function HomePage() {
 
             <div className="text-center">
               <div className="relative w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden">
-                <Image src="/mechanical-watch-movement-300-components-gears-spr.jpg" alt="Watch movement components" fill className="object-cover" />
+                <Image
+                  src="/mechanical-watch-movement-300-components-gears-spr.jpg"
+                  alt="Watch movement components"
+                  fill
+                  className="object-cover"
+                />
               </div>
               <h3 className="text-xl font-bold mb-2">300+ Components</h3>
               <p className="text-muted-foreground">
@@ -227,7 +237,7 @@ export default function HomePage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {featuredProducts.map((product) => (
+            {featuredProducts.slice(0, 3).map((product) => (
               <Card key={product.slug} className="group hover:shadow-xl transition-all duration-300">
                 <CardContent className="p-0 flex flex-col h-full">
                   <Link href={`/products/${product.slug}`} className="relative h-64 overflow-hidden rounded-t-lg block">
@@ -264,6 +274,12 @@ export default function HomePage() {
                 </CardContent>
               </Card>
             ))}
+          </div>
+
+          <div className="text-center mt-8">
+            <Button asChild size="lg">
+              <Link href="/products">View All Featured Watches</Link>
+            </Button>
           </div>
         </div>
       </section>
