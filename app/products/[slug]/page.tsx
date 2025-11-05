@@ -30,7 +30,6 @@ const products = [
     images: [
       "https://m.media-amazon.com/images/I/51mu4w1lJwL._AC_SX522_.jpg",
       "https://m.media-amazon.com/images/I/51ErgHuWHcL._AC_SX425_.jpg",
-      
     ],
   },
   {
@@ -52,12 +51,11 @@ const products = [
       "Automatic (self-winding) movement — in house Seiko calibre (e.g., 7S26) with approximately 41-hour power reserve",
       "Hardlex crystal (Seiko’s proprietary hardened mineral) for the dial cover",
       "Exhibition case-back (transparent) in some versions so you can view the movement",
-      "Water-resistance: 30 m / 3 ATM (suitable for everyday splashes but not swimming/diving)",
+      "Water resistance: 30 m / 3 ATM (suitable for everyday splashes but not swimming/diving)",
     ],
     images: [
       "https://m.media-amazon.com/images/I/61FgZRrx9UL._AC_SY741_.jpg",
       "https://m.media-amazon.com/images/I/61QYTJBUvGL._AC_SX679_.jpg",
-      
     ],
   },
   {
@@ -77,12 +75,10 @@ const products = [
       "Mineral crystal (or in select upgraded models sapphire)",
       "Water resistance: many variants rated around 30 m to 50 m (not designed for diving, but fine for everyday wear)",
       "Clean dial, minimalist styling, polished steel finish — emphasizing dress/everyday versatility",
-      
     ],
     images: [
       "https://m.media-amazon.com/images/I/81YJMXUexJL._AC_SY741_.jpg",
       "https://m.media-amazon.com/images/I/71I7lWZTjzL._AC_SX679_.jpg",
-      
     ],
   },
   {
@@ -95,7 +91,7 @@ const products = [
     amazonLink: "https://amazon.com/dp/B0EXAMPLE4?tag=youraffid-20",
     price: "$99",
     description:
-      "The Timex Men’s Easy Reader is a textbook example of “less is more” done right. With a design focused squarely on readability, practicality, and everyday reliability, this model has earned its place as a staple watch for decades. For anyone seeking a no-fuss, affordable timepiece that simply tells the time — and does it well — the Easy Reader is a strong contender. Design & Build Quality. From the moment you glance at it, the Easy Reader makes its purpose clear: large numerals, high-contrast dial, simple case. One reviewer of the 35 mm T20041 version notes it draws inspiration from “schoolroom clocks” and offers a clean, timeless look. The case is modest in size (for many versions around 35-38 mm) and quite thin, meaning it wears unobtrusively on the wrist. One spec list shows 35 mm diameter, 8 mm thickness for a version. Build materials are consistent with its price tier: a mineral crystal (not sapphire), quartz movement, modest water resistance (30 m or so) in many versions. For example, the T20041 is rated at 30 m. Despite the simplicity, many owners praise its durability and that it “just works”. One comment: “It’s a very honest product at an attractive price. The design is clean and minimalist. It’s durable and will last a long time, too.” Features & Specifications. Here are the key features you’ll typically find on the Timex Easy Reader line: Clean analog display with large, easy-to-read Arabic numerals (often 1-12) and a simple minute track. INDIGLO® backlight: Press the crown (or dedicated button depending on the version) and the full dial glows, aiding legibility in low light. Quartz movement: Reliable and low maintenance. Many reviews note that the Easy Reader simply “set and forget”. Case sizes commonly around 35-38 mm depending on variant, thickness often quite slim. Modest water resistance: Many versions rated 30 m (splash resistant), which means not suitable for swimming. Strap/bracelet options: Leather straps, stainless steel bracelets or expansion bands depending on model. One version features an expansion (stretch) bracelet. Variety of styles and finishes: While the core formula remains the same, you’ll find variants with date window, different dial colors or case finishes. For example, the “Easy Reader Bold 43mm” variant. Performance & Wearability. When it comes to daily wear, the Easy Reader delivers exactly what you'd hope for: readability and ease. Legibility: The large numbers, high contrast dial and Indiglo light make telling time quick and easy — even in low light. Comfort: The relatively small case size and thin profile mean it sits nicely on a variety of wrists, under a shirt cuff or casual. Reliability: Because it uses a quartz movement and has a simple feature set, there’s less that can go wrong — battery changes aside. Versatility: It suits casual wear, everyday office use and even more formal settings depending on strap/finish). One reviewer observed it pairs well with T-shirt & jeans and also suits dressier outfits. On the flip side: Because the water resistance is modest, if you’re planning to swim or dive you’ll need a different watch. The mineral crystal is less scratch-resistant than sapphire; if you’re rough on watches, you may see wear over time. Some variants may have a tick louder than high-end watches; one forum noted the “tick” being audible when worn to bed. ",
+      "The Timex Men’s Easy Reader is a textbook example of “less is more” done right. With a design focused squarely on readability, practicality, and everyday reliability, this model has earned its place as a staple watch for decades. For anyone seeking a no-fuss, affordable timepiece that simply tells the time — and does it well — the Easy Reader is a strong contender. Design & Build Quality. From the moment you glance at it, the Easy Reader makes its purpose clear: large numerals, high-contrast dial, simple case. One reviewer of the 35 mm T20041 version notes it draws inspiration from “schoolroom clocks” and offers a clean, timeless look. The case is modest in size (for many versions around 35-38 mm) and quite thin, meaning it wears unobtrusively on the wrist. One spec list shows 35 mm diameter, 8 mm thickness for a version. Build materials are consistent with its price tier: a mineral crystal (not sapphire), quartz movement, modest water resistance (30 m or so) in many versions. For example, the T20041 is rated at 30 m. Despite the simplicity, many owners praise its durability and that it “just works”. One comment: “It’s a very honest product at an attractive price. The design is clean and minimalist. It’s durable and will last a long time, too.” Features & Specifications. Here are the key features you’ll typically find on the Timex Easy Reader line: Clean analog display with large, easy-to-read Arabic numerals (often 1-12) and a simple minute track. INDIGLO® backlight: Press the crown (or dedicated button depending on the version) and the full dial glows, aiding legibility in low light. Quartz movement: Reliable and low maintenance. Many reviews note that the Easy Reader simply “set and forget”. Case sizes commonly around 35-38 mm depending on variant, thickness often quite slim. Strap/bracelet options: Leather straps, stainless steel bracelets or expansion bands depending on model. One version features an expansion (stretch) bracelet. Variety of styles and finishes: While the core formula remains the same, you’ll find variants with date window, different dial colors or case finishes. For example, the “Easy Reader Bold 43mm” variant. Performance & Wearability. When it comes to daily wear, the Easy Reader delivers exactly what you'd hope for: readability and ease. Legibility: The large numbers, high contrast dial and Indiglo light make telling time quick and easy — even in low light. Comfort: The relatively small case size and thin profile mean it sits nicely on a variety of wrists, under a shirt cuff or casual. Reliability: Because it uses a quartz movement and has a simple feature set, there’s less that can go wrong — battery changes aside. Versatility: It suits casual wear, everyday office use and even more formal settings depending on strap/finish). One reviewer observed it pairs well with T-shirt & jeans and also suits dressier outfits. On the flip side: Because the water resistance is modest, if you’re planning to swim or dive you’ll need a different watch. The mineral crystal is less scratch-resistant than sapphire; if you’re rough on watches, you may see wear over time. Some variants may have a tick louder than high-end watches; one forum noted the “tick” being audible when worn to bed. ",
     features: [
       "Easy-to-read dial with large Arabic numerals and simple design for rapid time-reading",
       "Date (and in some models day + date) window for added practicality",
@@ -103,7 +99,6 @@ const products = [
       "Water resistance (commonly around 30 m) — suitable for splashes and brief exposure, but not for swimming or diving",
       "Choice of strap/bracelet options: leather strap, expansion/stretch metal bracelet or standard stainless-steel band",
       "Case sizes that suit various wrists (e.g., 35 mm and 38 mm variants) for versatility in wear-style",
-      
     ],
     images: [
       "https://m.media-amazon.com/images/I/71S-CCwawqL._AC_SY550_.jpg",
@@ -148,7 +143,7 @@ const products = [
     amazonLink: "https://amazon.com/dp/B0EXAMPLE6?tag=youraffid-20",
     price: "$595",
     description:
-      "The Bulova Men’s Classic Sutton Automatic combines timeless design with a touch of modern mechanical flair. It’s not just a dress watch — it’s a piece that bridges elegance and engineering. With its open-heart dial, visible movement, and sophisticated detailing, this timepiece appeals to anyone who appreciates both aesthetics and craftsmanship. Unlike many quartz dress watches in its price range, the Sutton’s automatic movement gives it life — a smooth sweeping seconds hand and a view into its mechanical heart. This watch feels alive on the wrist, offering both sophistication and personality for everyday business wear or formal occasions. Design & Build Quality. At first glance, the Sutton’s dial immediately catches the eye. The open-heart window at 7 o’clock reveals the oscillating balance wheel — a subtle reminder that this is a true automatic, not a battery-powered piece. The sunray dial finish, combined with Roman numeral hour markers and skeleton hands, creates a refined, vintage-inspired look that never feels outdated. The case measures around 43 mm, giving it a bold wrist presence while remaining proportionate for most men’s wrists. The stainless-steel construction feels solid, well-polished, and substantial without being heavy. A domed mineral crystal covers the dial, offering clarity and decent scratch resistance. On the back, you’ll find an exhibition case back — another window into the automatic movement. It’s a nice touch that reinforces Bulova’s attention to mechanical artistry at an accessible price. The watch is typically paired with a brown or black leather strap, or stainless-steel bracelet depending on variant — both complement the design perfectly. Movement & Performance. Inside, the Sutton runs on a Japanese-made automatic movement, visible through both the front open-heart and rear exhibition case back. The four-hand configuration includes hour, minute, second, and 24-hour sub-dial, adding both functionality and balance to the dial layout. Accuracy is solid for an entry-level automatic — you can expect a slight deviation of a few seconds per day, which is standard for this type of movement. Power reserve is approximately 40 hours, so if you set it down for a day or two, it will keep running until you’re ready to wear it again. Unlike quartz watches, there’s no battery to replace — simply wear it daily or give it a few winds via the crown to keep it ticking smoothly.",
+      "The Bulova Men’s Classic Sutton Automatic combines timeless design with a touch of modern mechanical flair. It's not just a dress watch — it's a piece that bridges elegance and engineering. With its open-heart dial, visible movement, and sophisticated detailing, this timepiece appeals to anyone who appreciates both aesthetics and craftsmanship. Unlike many quartz dress watches in its price range, the Sutton's automatic movement gives it life — a smooth sweeping seconds hand and a view into its mechanical heart. This watch feels alive on the wrist, offering both sophistication and personality for everyday business wear or formal occasions. Design & Build Quality. At first glance, the Sutton's dial immediately catches the eye. The open-heart window at 7 o'clock reveals the oscillating balance wheel — a subtle reminder that this is a true automatic, not a battery-powered piece. The sunray dial finish, combined with Roman numeral hour markers and skeleton hands, creates a refined, vintage-inspired look that never feels outdated. The case measures around 43 mm, giving it a bold wrist presence while remaining proportionate for most men's wrists. The stainless-steel construction feels solid, well-polished, and substantial without being heavy. A domed mineral crystal covers the dial, offering clarity and decent scratch resistance. On the back, you'll find an exhibition case back — another window into the automatic movement. It's a nice touch that reinforces Bulova's attention to mechanical artistry at an accessible price. The watch is typically paired with a brown or black leather strap, or stainless-steel bracelet depending on variant — both complement the design perfectly. Movement & Performance. Inside, the Sutton runs on a Japanese-made automatic movement, visible through both the front open-heart and rear exhibition case back. The four-hand configuration includes hour, minute, second, and 24-hour sub-dial, adding both functionality and balance to the dial layout. Accuracy is solid for an entry-level automatic — you can expect a slight deviation of a few seconds per day, which is standard for this type of movement. Power reserve is approximately 40 hours, so if you set it down for a day or two, it will keep running until you’re ready to wear it again. Unlike quartz watches, there’s no battery to replace — simply wear it daily or give it a few winds via the crown to keep it ticking smoothly.",
     features: [
       "Automatic self-winding movement — no battery required; powered by wrist motion",
       "4-hand configuration: hour, minute, sweeping second hand, and 24-hour sub-dial",
@@ -159,8 +154,145 @@ const products = [
       "Crystal: domed mineral glass for durability and clear viewing",
       "Dial options: silver, blue, or black sunray finishes (depending on variant)",
     ],
+    images: ["https://m.media-amazon.com/images/I/71fLKaBwOAL._AC_SX679_.jpg"],
+  },
+  {
+    slug: "bertucci-a2t-mens-watch",
+    name: "BERTUCCI A-2T Men's Watch",
+    rating: 4.7,
+    reviews: 1842,
+    image: "https://m.media-amazon.com/images/I/717ghGFCkML._AC_SY741_.jpg",
+    badge: "Tactical Choice",
+    amazonLink: "https://www.amazon.com/Bertucci-12122-Original-Classics-Titanium/dp/B003G65OHE",
+    price: "$199",
+    description:
+      "The BERTUCCI A-2T is a field watch built for those who demand reliability in the toughest conditions. Designed with military and outdoor enthusiasts in mind, this timepiece combines rugged construction with practical functionality. The titanium case makes it incredibly lightweight yet durable, while the Swiss-made movement ensures precision timekeeping. Whether you're hiking through rough terrain, working in demanding environments, or simply want a watch that can handle anything you throw at it, the A-2T delivers. The watch features a clean, highly legible dial with bold numerals and luminous hands that glow brightly in low-light conditions. The unidirectional rotating bezel adds functionality for timing activities, and the scratch-resistant sapphire crystal protects the dial from daily wear. At 40mm, the case size is perfectly balanced — large enough to make a statement but not so oversized that it becomes cumbersome. The nylon strap is comfortable, quick-drying, and easily replaceable, making it ideal for active lifestyles. What sets the A-2T apart is its attention to detail and build quality at this price point. The titanium construction means it's hypoallergenic and won't corrode, even in saltwater environments. The 100m water resistance makes it suitable for swimming and water sports. Users consistently praise its durability, with many reporting years of hard use without issues. The watch runs on a reliable Swiss quartz movement, offering accuracy and low maintenance. One reviewer noted: 'This watch has been through hell and back — camping, construction work, ocean swimming — and it still looks and runs like new.' The A-2T is a true tool watch that doesn't compromise on quality.",
+    features: [
+      "Titanium case construction — lightweight, hypoallergenic, and corrosion-resistant",
+      "Swiss quartz movement for reliable accuracy and low maintenance",
+      "Sapphire crystal with anti-reflective coating for superior scratch resistance",
+      "Unidirectional rotating bezel for timing functions",
+      "Super-LumiNova luminous hands and markers for excellent low-light visibility",
+      "100m (330ft) water resistance — suitable for swimming and water sports",
+      "Nylon strap with quick-release system for easy changes",
+      "Case diameter: 40mm with 12mm thickness",
+      "Screw-down crown for enhanced water resistance",
+      "Date display at 3 o'clock position",
+    ],
     images: [
-      "https://m.media-amazon.com/images/I/71fLKaBwOAL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/717ghGFCkML._AC_SY741_.jpg",
+      
+    ],
+  },
+  {
+    slug: "stuhrling-original-mens-dive-watch",
+    name: "Stuhrling Original Men's Dive Watch",
+    rating: 4.6,
+    reviews: 2134,
+    image: "https://m.media-amazon.com/images/I/81OjfrROf8L._AC_SY535_.jpg",
+    badge: "Dive Ready",
+    amazonLink: "https://www.amazon.com/Stuhrling-Original-Movement-Stainless-Resistant/dp/B0CWJZPWJF",
+    price: "$149",
+    description:
+      "The Stuhrling Original Men's Dive Watch brings professional diving capabilities to an accessible price point. This timepiece is designed for serious water enthusiasts who need a reliable tool watch without breaking the bank. With 200m water resistance, a robust automatic movement, and classic dive watch styling, it punches well above its weight class. The watch features a bold 42mm stainless steel case with a unidirectional rotating bezel — essential for tracking dive times safely. The dial is highly legible with large luminous markers and hands that glow brightly underwater or in dark conditions. The date window at 3 o'clock adds everyday practicality. What makes this watch particularly impressive is its automatic movement. Unlike many budget dive watches that use quartz, the Stuhrling features a mechanical self-winding movement that you can see through the exhibition case back. Watch enthusiasts appreciate this transparency and the smooth sweeping seconds hand that comes with automatic movements. The build quality is solid throughout. The screw-down crown ensures water resistance, while the mineral crystal protects the dial from scratches. The stainless steel bracelet feels substantial and includes a dive extension clasp for wearing over a wetsuit. At 200m water resistance, this watch is rated for recreational scuba diving, not just swimming. Users report excellent value for money, with many comparing it favorably to watches costing twice as much. One diver noted: 'I've taken this watch on multiple dive trips and it's performed flawlessly. The lume is bright, the bezel action is smooth, and the automatic movement keeps excellent time.' Whether you're an actual diver or simply appreciate the robust aesthetic of dive watches, the Stuhrling Original delivers impressive quality and functionality.",
+    features: [
+      "Automatic self-winding movement with exhibition case back",
+      "200m (660ft) water resistance — suitable for recreational scuba diving",
+      "42mm stainless steel case with brushed and polished finishes",
+      "Unidirectional rotating bezel with luminous pip for dive timing",
+      "Highly luminous dial with large markers and hands for underwater visibility",
+      "Screw-down crown for enhanced water resistance",
+      "Mineral crystal with anti-reflective coating",
+      "Date display at 3 o'clock position",
+      "Stainless steel bracelet with dive extension clasp",
+      "Solid case back with exhibition window to view the movement",
+    ],
+    images: [
+      "https://m.media-amazon.com/images/I/81OjfrROf8L._AC_SY535_.jpg",
+      
+    ],
+  },
+  {
+    slug: "swarovski-cosmopolitan-crystal-watch",
+    name: "Swarovski Cosmopolitan Crystal Watch",
+    rating: 4.8,
+    reviews: 987,
+    image: "https://m.media-amazon.com/images/I/812V0eTigkL._AC_SX679_.jpg",
+    badge: "Luxury Style",
+    amazonLink: "https://www.amazon.com/Swarovski-Cosmopolitan-Bracelet-Gold-Tone-Finish/dp/B0B1F6TPQX",
+    price: "$399",
+    description:
+      "The Swarovski Cosmopolitan Crystal Watch is where jewelry meets horology. This isn't just a timepiece — it's a statement of elegance and sophistication. Adorned with Swarovski's signature crystals, this watch transforms the simple act of checking the time into a moment of luxury. The design is unmistakably feminine and glamorous, perfect for special occasions or adding sparkle to everyday outfits. The watch features a sleek gold-tone case and bracelet that catches the light beautifully. The dial is encircled with precision-cut Swarovski crystals that shimmer with every movement. The minimalist dial design keeps the focus on the crystals while maintaining excellent readability. At 32mm, the case size is perfectly proportioned for most women's wrists — elegant without being oversized. What sets this watch apart is Swarovski's attention to detail and crystal craftsmanship. Each stone is precisely set and secured, creating a continuous sparkle around the bezel. The bracelet itself is a work of art, with a comfortable mesh design that drapes elegantly on the wrist. The magnetic clasp makes it easy to put on and take off while ensuring a secure fit. The Swiss-made quartz movement ensures accurate timekeeping with minimal maintenance. The watch is water-resistant to 50m, making it suitable for everyday wear including hand washing and light splashes (though you'll want to remove it before swimming to protect the crystals). Users consistently praise the watch's beauty and quality, with many noting it receives compliments wherever they go. One reviewer shared: 'This watch is absolutely stunning. The crystals catch the light perfectly, and it feels luxurious on the wrist. It's become my go-to piece for both work and evening events.' Whether you're dressing up for a special occasion or want to add a touch of glamour to your daily routine, the Swarovski Cosmopolitan delivers timeless elegance.",
+    features: [
+      "Precision-cut Swarovski crystals encircling the dial",
+      "Swiss-made quartz movement for reliable accuracy",
+      "32mm gold-tone stainless steel case",
+      "Elegant mesh bracelet with magnetic clasp closure",
+      "Minimalist dial design with crystal hour markers",
+      "Scratch-resistant mineral crystal",
+      "50m water resistance — suitable for everyday wear",
+      "Gold-tone finish throughout for cohesive luxury aesthetic",
+      "Slim profile that slides easily under sleeves",
+      "Comes in signature Swarovski packaging — perfect for gifting",
+    ],
+    images: [
+      "https://m.media-amazon.com/images/I/812V0eTigkL._AC_SX679_.jpg",
+      
+    ],
+  },
+  {
+    slug: "invicta-mens-watch",
+    name: "Invicta Men's Watch",
+    rating: 4.5,
+    reviews: 3421,
+    image: "https://m.media-amazon.com/images/I/71PH7dMqe0L._AC_SY695_.jpg",
+    badge: "Bold Design",
+    amazonLink: "https://www.amazon.com/Invicta-19656-I-Force-Analog-Display/dp/B00XM0KQ5E",
+    price: "$89",
+    description:
+      "The Invicta Men's I-Force Watch is designed for those who want maximum impact on the wrist. This is a bold, masculine timepiece that makes no apologies for its size or presence. With its military-inspired design, robust construction, and impressive array of features, it's built for men who live active lifestyles and want a watch that can keep up. The watch features a substantial 46mm case that commands attention. The black dial with contrasting white and red accents ensures excellent readability, while the date display adds everyday functionality. The unidirectional rotating bezel is both practical and adds to the tactical aesthetic. The flame-fusion crystal is highly scratch-resistant, protecting the dial from daily wear and tear. What makes this Invicta particularly appealing is its value proposition. You get a Swiss quartz movement, 100m water resistance, and solid build quality at a very accessible price point. The stainless steel case and bracelet feel substantial and well-made. The bracelet includes a fold-over clasp with safety closure, ensuring the watch stays securely on your wrist during active pursuits. The I-Force collection is inspired by military field watches, and this model captures that rugged spirit perfectly. The bold numerals, luminous hands, and tactical styling make it ideal for outdoor activities, sports, or simply making a statement. At 100m water resistance, it's suitable for swimming and water sports (though not diving). Users appreciate the watch's bold presence and reliable performance. One owner noted: 'This watch is a beast on the wrist in the best way possible. It's built like a tank, keeps accurate time, and gets noticed. For the price, you can't beat the quality and features.' Whether you're drawn to military-inspired designs or simply want a watch with serious wrist presence, the Invicta I-Force delivers impressive value and style.",
+    features: [
+      "Swiss quartz movement for reliable accuracy",
+      "46mm stainless steel case with bold masculine presence",
+      "Flame-fusion crystal for superior scratch resistance",
+      "Unidirectional rotating bezel for timing functions",
+      "100m (330ft) water resistance — suitable for swimming",
+      "Luminous hands and markers for low-light visibility",
+      "Date display at 3 o'clock position",
+      "Stainless steel bracelet with fold-over clasp and safety closure",
+      "Black dial with high-contrast white and red accents",
+      "Military-inspired tactical design aesthetic",
+    ],
+    images: [
+      "https://m.media-amazon.com/images/I/71PH7dMqe0L._AC_SY695_.jpg",
+      
+    ],
+  },
+  {
+    slug: "invicta-speedway-51mm-silicone-quartz",
+    name: "Invicta Men's Speedway 51mm Silicone Quartz Watch",
+    rating: 4.6,
+    reviews: 2876,
+    image: "https://m.media-amazon.com/images/I/81WPtR+9qEL._AC_SY695_.jpg",
+    badge: "Oversized",
+    amazonLink: "https://www.amazon.com/Invicta-Speedway-Quartz-Stainless-Polyurethane/dp/B01M73JZYP",
+    price: "$119",
+    description:
+      "The Invicta Speedway 51mm is not for the faint of heart. This is an oversized chronograph that dominates the wrist with its massive 51mm case and bold racing-inspired design. If you want a watch that makes an unmistakable statement and turns heads wherever you go, the Speedway delivers in spades. This timepiece is inspired by motorsports and racing culture, with a design that emphasizes speed, power, and performance. The watch features a complex multi-dial chronograph layout with three sub-dials for tracking elapsed time. The tachymeter bezel allows you to calculate speed based on time and distance — a classic racing complication. The dial is busy in the best way, packed with information and visual interest that racing enthusiasts will appreciate. At 51mm, this watch is genuinely massive. It's designed for larger wrists and those who embrace the oversized watch trend. The case is stainless steel with a polished finish that catches the light dramatically. Despite its size, the silicone strap keeps it comfortable for all-day wear. The strap is flexible, durable, and perfect for active lifestyles or sports activities. The Swiss quartz chronograph movement ensures accurate timekeeping and reliable chronograph functions. The watch is water-resistant to 100m, making it suitable for swimming (though you'll want to be mindful of its size in the water). The flame-fusion crystal protects the dial from scratches and impacts. Users who love oversized watches consistently praise the Speedway's bold presence and value. One enthusiast shared: 'This watch is absolutely massive and I love it. It's a conversation starter everywhere I go. The chronograph works perfectly, and the build quality is impressive for the price.' The Speedway isn't trying to be subtle — it's designed for maximum impact. If you want a watch that announces your presence and celebrates bold, unapologetic style, the Invicta Speedway 51mm delivers exactly that.",
+    features: [
+      "Massive 51mm stainless steel case for maximum wrist presence",
+      "Swiss quartz chronograph movement with three sub-dials",
+      "Tachymeter bezel for speed calculations",
+      "100m (330ft) water resistance — suitable for swimming",
+      "Flame-fusion crystal for scratch resistance",
+      "Comfortable silicone strap ideal for sports and active wear",
+      "Luminous hands for visibility in low light",
+      "Date display integrated into the dial",
+      "Racing-inspired design with bold color accents",
+      "Chronograph functions: 60-second, 30-minute, and 1/10-second sub-dials",
+    ],
+    images: [
+      "https://m.media-amazon.com/images/I/81WPtR+9qEL._AC_SY695_.jpg",
       
     ],
   },
