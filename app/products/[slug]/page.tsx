@@ -299,6 +299,7 @@ const products = [
 ]
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  
   const product = products.find((p) => p.slug === params.slug)
 
   if (!product) {
@@ -318,8 +319,9 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 }
 
-export default function ProductPage({ params }: { params: { slug: string } }) {
-  const product = products.find((p) => p.slug === params.slug)
+export default async function ProductPage({ params }: { params: { slug: string } }) {
+  const { slug } = await params;
+  const product = products.find((p) => p.slug === slug)
 
   if (!product) {
     notFound()
