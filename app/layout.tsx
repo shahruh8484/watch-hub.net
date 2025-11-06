@@ -22,6 +22,10 @@ export const metadata: Metadata = {
   creator: "Watch-Hub",
   publisher: "Watch-Hub",
   metadataBase: new URL("https://watchhub.com"),
+  icons: {
+    icon: [{ url: "/icon.png" }, { url: "/icon.png", sizes: "32x32", type: "image/png" }],
+    apple: [{ url: "/icon.png" }],
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
