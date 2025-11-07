@@ -4,9 +4,9 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 
 export const metadata: Metadata = {
-  title: "Our Testing Team - WatchHub | Meet the Experts Behind Our Reviews",
+  title: "Our Testing Team - Tick-Review | Meet the Experts Behind Our Reviews",
   description:
-    "Meet the watch enthusiasts, collectors, and professionals who test and review timepieces for WatchHub. Decades of combined expertise in horology.",
+    "Meet the watch enthusiasts, collectors, and professionals who test and review timepieces for Tick-Review. Decades of combined expertise in horology.",
 }
 
 const testers = [

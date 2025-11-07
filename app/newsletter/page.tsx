@@ -5,8 +5,9 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Mail, Clock, Star, TrendingUp } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "Newsletter | WatchHub",
-  description: "Subscribe to WatchHub's weekly newsletter for the latest watch news, reviews, and exclusive content.",
+  title: "Newsletter | Tick-Review",
+  description:
+    "Subscribe to Tick-Review's weekly newsletter for the latest watch news, reviews, and exclusive content.",
 }
 
 export default function NewsletterPage() {
@@ -15,7 +16,7 @@ export default function NewsletterPage() {
       <div className="mx-auto max-w-4xl">
         <div className="mb-12 text-center">
           <Mail className="mx-auto mb-4 h-16 w-16 text-primary" />
-          <h1 className="mb-4 font-serif text-4xl font-bold md:text-5xl">WatchHub Newsletter</h1>
+          <h1 className="mb-4 font-serif text-4xl font-bold md:text-5xl">Tick-Review Newsletter</h1>
           <p className="text-lg text-muted-foreground">
             Join 50,000+ watch enthusiasts receiving our weekly digest of the latest news, reviews, and exclusive
             content.
@@ -25,7 +26,7 @@ export default function NewsletterPage() {
         <Card className="mb-12">
           <CardHeader>
             <CardTitle>Subscribe Now</CardTitle>
-            <CardDescription>Get the best of WatchHub delivered to your inbox every week</CardDescription>
+            <CardDescription>Get the best of Tick-Review delivered to your inbox every week</CardDescription>
           </CardHeader>
           <CardContent>
             <form className="flex flex-col gap-4 sm:flex-row">
@@ -35,8 +36,8 @@ export default function NewsletterPage() {
               </Button>
             </form>
             <p className="mt-4 text-xs text-muted-foreground">
-              By subscribing, you agree to receive marketing emails from WatchHub. You can unsubscribe at any time. View
-              our{" "}
+              By subscribing, you agree to receive marketing emails from Tick-Review. You can unsubscribe at any time.
+              View our{" "}
               <a href="/privacy" className="text-primary hover:underline">
                 Privacy Policy
               </a>

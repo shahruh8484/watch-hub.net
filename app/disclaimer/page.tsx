@@ -1,9 +1,9 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Affiliate Disclaimer - WatchHub | Amazon Associates Disclosure",
+  title: "Affiliate Disclaimer - Tick-Review | Amazon Associates Disclosure",
   description:
-    "WatchHub participates in the Amazon Associates Program. Learn about our affiliate relationships and how we maintain editorial independence.",
+    "Tick-Review participates in the Amazon Associates Program. Learn about our affiliate relationships and how we maintain editorial independence.",
 }
 
 export default function DisclaimerPage() {
@@ -19,9 +19,9 @@ export default function DisclaimerPage() {
           <section>
             <h2 className="text-3xl font-bold mb-4">Amazon Associates Program</h2>
             <p className="text-muted-foreground leading-relaxed">
-              WatchHub is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program
-              designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
-              and affiliated sites.
+              Tick-Review is a participant in the Amazon Services LLC Associates Program, an affiliate advertising
+              program designed to provide a means for sites to earn advertising fees by advertising and linking to
+              Amazon.com and affiliated sites.
             </p>
           </section>
 
@@ -103,8 +103,8 @@ export default function DisclaimerPage() {
             <h2 className="text-3xl font-bold mb-4">Questions</h2>
             <p className="text-muted-foreground leading-relaxed">
               If you have any questions about our affiliate relationships or this disclaimer, please contact us at{" "}
-              <a href="mailto:hello@watchhub.com" className="text-primary hover:underline">
-                hello@watchhub.com
+              <a href="mailto:hello@tick-review.com" className="text-primary hover:underline">
+                hello@tick-review.com
               </a>
             </p>
           </section>

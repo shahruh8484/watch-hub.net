@@ -2,9 +2,9 @@ import type { Metadata } from "next"
 import Link from "next/link"
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - WatchHub | How We Protect Your Data",
+  title: "Privacy Policy - Tick-Review | How We Protect Your Data",
   description:
-    "Learn how WatchHub collects, uses, and protects your personal information. We are committed to transparency and data privacy.",
+    "Learn how Tick-Review collects, uses, and protects your personal information. We are committed to transparency and data privacy.",
 }
 
 export default function PrivacyPage() {
@@ -18,9 +18,9 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-2xl font-bold mb-4">Introduction</h2>
             <p className="text-muted-foreground leading-relaxed">
-              At WatchHub, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose,
-              and safeguard your information when you visit our website. Please read this privacy policy carefully. If
-              you do not agree with the terms of this privacy policy, please do not access the site.
+              At Tick-Review, we take your privacy seriously. This Privacy Policy explains how we collect, use,
+              disclose, and safeguard your information when you visit our website. Please read this privacy policy
+              carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
             </p>
           </section>
 
@@ -108,10 +108,10 @@ export default function PrivacyPage() {
             <h2 className="text-2xl font-bold mb-4">Third-Party Services</h2>
             <h3 className="text-xl font-semibold mb-3 mt-6">Amazon Associates Program</h3>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              WatchHub is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program
-              designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
-              When you click on Amazon links on our site, Amazon may use cookies to track your activity for commission
-              purposes.
+              Tick-Review is a participant in the Amazon Services LLC Associates Program, an affiliate advertising
+              program designed to provide a means for sites to earn advertising fees by advertising and linking to
+              Amazon.com. When you click on Amazon links on our site, Amazon may use cookies to track your activity for
+              commission purposes.
             </p>
 
             <h3 className="text-xl font-semibold mb-3 mt-6">Analytics Services</h3>

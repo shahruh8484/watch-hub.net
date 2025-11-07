@@ -1,8 +1,8 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Cookie Policy | WatchHub",
-  description: "Information about how WatchHub uses cookies and similar technologies.",
+  title: "Cookie Policy | Tick-Review",
+  description: "Information about how Tick-Review uses cookies and similar technologies.",
 }
 
 export default function CookiesPage() {
@@ -20,7 +20,7 @@ export default function CookiesPage() {
           </p>
 
           <h2>How We Use Cookies</h2>
-          <p>WatchHub uses cookies for several purposes:</p>
+          <p>Tick-Review uses cookies for several purposes:</p>
 
           <h3>Essential Cookies</h3>
           <p>
@@ -102,8 +102,8 @@ export default function CookiesPage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about our use of cookies, please contact us at{" "}
-            <a href="mailto:privacy@watchhub.com" className="text-primary hover:underline">
-              privacy@watchhub.com
+            <a href="mailto:privacy@tick-review.com" className="text-primary hover:underline">
+              privacy@tick-review.com
             </a>
             .
           </p>

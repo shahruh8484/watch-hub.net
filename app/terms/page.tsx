@@ -1,8 +1,8 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Terms of Use | WatchHub",
-  description: "Terms and conditions for using WatchHub website and services.",
+  title: "Terms of Use | Tick-Review",
+  description: "Terms and conditions for using Tick-Review website and services.",
 }
 
 export default function TermsPage() {
@@ -22,8 +22,8 @@ export default function TermsPage() {
           <h2>2. Use License</h2>
           <p>
             Permission is granted to temporarily download one copy of the materials (information or software) on
-            tick-review's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not
-            a transfer of title, and under this license you may not:
+            tick-review's Website for personal, non-commercial transitory viewing only. This is the grant of a license,
+            not a transfer of title, and under this license you may not:
           </p>
           <ul>
             <li>Modify or copy the materials</li>
@@ -43,16 +43,16 @@ export default function TermsPage() {
 
           <h2>4. Affiliate Links</h2>
           <p>
-            tick-review participates in the Amazon Services LLC Associates Program and other affiliate advertising
+            Tick-Review participates in the Amazon Services LLC Associates Program and other affiliate advertising
             programs. This means we may earn a commission when you click on certain links and make purchases. These
             commissions come at no additional cost to you and help support our content creation.
           </p>
 
           <h2>5. Product Reviews and Recommendations</h2>
           <p>
-            All product reviews and recommendations on Tick-review represent our honest opinions based on our testing and
-            research. We strive to provide accurate and unbiased information, but individual experiences may vary. We
-            are not responsible for any purchases made based on our recommendations.
+            All product reviews and recommendations on Tick-Review represent our honest opinions based on our testing
+            and research. We strive to provide accurate and unbiased information, but individual experiences may vary.
+            We are not responsible for any purchases made based on our recommendations.
           </p>
 
           <h2>6. Accuracy of Materials</h2>
@@ -64,28 +64,28 @@ export default function TermsPage() {
 
           <h2>7. Links</h2>
           <p>
-            Tick-review has not reviewed all of the sites linked to its Website and is not responsible for the contents of
-            any such linked site. The inclusion of any link does not imply endorsement by Tick-review of the site. Use of
-            any such linked website is at the user's own risk.
+            Tick-Review has not reviewed all of the sites linked to its Website and is not responsible for the contents
+            of any such linked site. The inclusion of any link does not imply endorsement by Tick-Review of the site.
+            Use of any such linked website is at the user's own risk.
           </p>
 
           <h2>8. User Comments and Content</h2>
           <p>
-            Users may post comments, reviews, and other content on the Website. By posting content, you grant tick-review a
-            non-exclusive, royalty-free, perpetual license to use, reproduce, modify, and display such content. You are
-            responsible for the content you post and must not post content that is illegal, offensive, or infringes on
-            others' rights.
+            Users may post comments, reviews, and other content on the Website. By posting content, you grant
+            tick-review a non-exclusive, royalty-free, perpetual license to use, reproduce, modify, and display such
+            content. You are responsible for the content you post and must not post content that is illegal, offensive,
+            or infringes on others' rights.
           </p>
 
           <h2>9. Privacy</h2>
           <p>
-            Your use of tick-review's Website is also governed by our Privacy Policy. Please review our Privacy Policy,
+            Your use of Tick-Review's Website is also governed by our Privacy Policy. Please review our Privacy Policy,
             which also governs the Website and informs users of our data collection practices.
           </p>
 
           <h2>10. Modifications</h2>
           <p>
-            tick-review may revise these terms of use for its Website at any time without notice. By using this Website,
+            Tick-Review may revise these terms of use for its Website at any time without notice. By using this Website,
             you are agreeing to be bound by the then current version of these Terms of Use.
           </p>
 
@@ -98,8 +98,8 @@ export default function TermsPage() {
           <h2>12. Contact Information</h2>
           <p>
             If you have any questions about these Terms of Use, please contact us at{" "}
-            <a href="mailto:legal@watchhub.com" className="text-primary hover:underline">
-              legal@watchhub.com
+            <a href="mailto:legal@tick-review.com" className="text-primary hover:underline">
+              legal@tick-review.com
             </a>
             .
           </p>

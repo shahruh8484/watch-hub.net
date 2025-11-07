@@ -179,10 +179,7 @@ const products = [
       "Screw-down crown for enhanced water resistance",
       "Date display at 3 o'clock position",
     ],
-    images: [
-      "https://m.media-amazon.com/images/I/717ghGFCkML._AC_SY741_.jpg",
-      
-    ],
+    images: ["https://m.media-amazon.com/images/I/717ghGFCkML._AC_SY741_.jpg"],
   },
   {
     slug: "stuhrling-original-mens-dive-watch",
@@ -207,10 +204,7 @@ const products = [
       "Stainless steel bracelet with dive extension clasp",
       "Solid case back with exhibition window to view the movement",
     ],
-    images: [
-      "https://m.media-amazon.com/images/I/81OjfrROf8L._AC_SY535_.jpg",
-      
-    ],
+    images: ["https://m.media-amazon.com/images/I/81OjfrROf8L._AC_SY535_.jpg"],
   },
   {
     slug: "swarovski-cosmopolitan-crystal-watch",
@@ -235,10 +229,7 @@ const products = [
       "Slim profile that slides easily under sleeves",
       "Comes in signature Swarovski packaging — perfect for gifting",
     ],
-    images: [
-      "https://m.media-amazon.com/images/I/812V0eTigkL._AC_SX679_.jpg",
-      
-    ],
+    images: ["https://m.media-amazon.com/images/I/812V0eTigkL._AC_SX679_.jpg"],
   },
   {
     slug: "invicta-mens-watch",
@@ -263,10 +254,7 @@ const products = [
       "Black dial with high-contrast white and red accents",
       "Military-inspired tactical design aesthetic",
     ],
-    images: [
-      "https://m.media-amazon.com/images/I/71PH7dMqe0L._AC_SY695_.jpg",
-      
-    ],
+    images: ["https://m.media-amazon.com/images/I/71PH7dMqe0L._AC_SY695_.jpg"],
   },
   {
     slug: "invicta-speedway-51mm-silicone-quartz",
@@ -291,15 +279,11 @@ const products = [
       "Racing-inspired design with bold color accents",
       "Chronograph functions: 60-second, 30-minute, and 1/10-second sub-dials",
     ],
-    images: [
-      "https://m.media-amazon.com/images/I/81WPtR+9qEL._AC_SY695_.jpg",
-      
-    ],
+    images: ["https://m.media-amazon.com/images/I/81WPtR+9qEL._AC_SY695_.jpg"],
   },
 ]
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  
   const product = products.find((p) => p.slug === params.slug)
 
   if (!product) {
@@ -309,7 +293,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 
   return {
-    title: `${product.name} Review | WatchHub`,
+    title: `${product.name} Review | Tick-Review`,
     description: product.description,
     openGraph: {
       title: `${product.name} Review`,
@@ -320,7 +304,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 }
 
 export default async function ProductPage({ params }: { params: { slug: string } }) {
-  const { slug } = await params;
+  const { slug } = await params
   const product = products.find((p) => p.slug === slug)
 
   if (!product) {

@@ -1,7 +1,7 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Watch Glossary | WatchHub",
+  title: "Watch Glossary | Tick-Review",
   description: "Comprehensive glossary of watch terminology, movements, and horological terms.",
 }
 

@@ -5,15 +5,15 @@ import { Mail, Users, TrendingUp, Target } from "lucide-react"
 import Link from "next/link"
 
 export const metadata: Metadata = {
-  title: "Advertise With Us | WatchHub",
-  description: "Reach watch enthusiasts and collectors through WatchHub's advertising opportunities.",
+  title: "Advertise With Us | Tick-Review",
+  description: "Reach watch enthusiasts and collectors through Tick-Review's advertising opportunities.",
 }
 
 export default function AdvertisePage() {
   return (
     <div className="container mx-auto px-4 py-12">
       <div className="mx-auto max-w-4xl">
-        <h1 className="mb-4 font-serif text-4xl font-bold md:text-5xl">Advertise With WatchHub</h1>
+        <h1 className="mb-4 font-serif text-4xl font-bold md:text-5xl">Advertise With Tick-Review</h1>
         <p className="mb-12 text-lg text-muted-foreground">
           Connect with passionate watch enthusiasts, collectors, and buyers through our premium advertising platform.
         </p>
@@ -115,8 +115,8 @@ export default function AdvertisePage() {
             <div className="space-y-4">
               <p className="text-sm">
                 <strong>Email:</strong>{" "}
-                <a href="mailto:advertising@watchhub.com" className="text-primary hover:underline">
-                  advertising@watchhub.com
+                <a href="mailto:advertising@tick-review.com" className="text-primary hover:underline">
+                  advertising@tick-review.com
                 </a>
               </p>
               <p className="text-sm">

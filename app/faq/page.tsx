@@ -2,8 +2,8 @@ import type { Metadata } from "next"
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 
 export const metadata: Metadata = {
-  title: "Frequently Asked Questions | WatchHub",
-  description: "Common questions about watches, our reviews, and WatchHub services.",
+  title: "Frequently Asked Questions | Tick-Review",
+  description: "Common questions about watches, our reviews, and Tick-Review services.",
 }
 
 export default function FAQPage() {
@@ -12,14 +12,14 @@ export default function FAQPage() {
       <div className="mx-auto max-w-4xl">
         <h1 className="mb-4 font-serif text-4xl font-bold md:text-5xl">Frequently Asked Questions</h1>
         <p className="mb-12 text-lg text-muted-foreground">
-          Find answers to common questions about watches, our reviews, and WatchHub services.
+          Find answers to common questions about watches, our reviews, and Tick-Review services.
         </p>
 
         <Accordion type="single" collapsible className="w-full">
           <AccordionItem value="item-1">
-            <AccordionTrigger>What is WatchHub?</AccordionTrigger>
+            <AccordionTrigger>What is Tick-Review?</AccordionTrigger>
             <AccordionContent>
-              WatchHub is a comprehensive online resource for watch enthusiasts, collectors, and buyers. We provide
+              Tick-Review is a comprehensive online resource for watch enthusiasts, collectors, and buyers. We provide
               in-depth reviews, buying guides, industry news, and educational content about timepieces from luxury to
               affordable brands. Our team of expert reviewers tests and evaluates watches to help you make informed
               purchasing decisions.
@@ -51,7 +51,7 @@ export default function FAQPage() {
             <AccordionContent>
               Yes, we accept watches from brands and manufacturers for review consideration. However, receiving a watch
               for review does not guarantee a positive review or any review at all. We maintain complete editorial
-              independence and will provide our honest assessment. Contact our editorial team at reviews@watchhub.com
+              independence and will provide our honest assessment. Contact our editorial team at reviews@tick-review.com
               for more information.
             </AccordionContent>
           </AccordionItem>
@@ -113,7 +113,7 @@ export default function FAQPage() {
           <AccordionItem value="item-10">
             <AccordionTrigger>Do you offer watch repair services?</AccordionTrigger>
             <AccordionContent>
-              No, WatchHub is an informational website and does not offer repair services. However, we can provide
+              No, Tick-Review is an informational website and does not offer repair services. However, we can provide
               guidance on finding reputable watchmakers and service centers. For warranty repairs, always contact the
               brand's authorized service center first. For vintage or out-of-warranty watches, seek independent
               watchmakers with good reputations and proper certifications.
@@ -125,19 +125,19 @@ export default function FAQPage() {
             <AccordionContent>
               When you click on certain product links on our site and make a purchase, we may earn a small commission at
               no additional cost to you. This is part of the Amazon Associates Program and other affiliate partnerships.
-              These commissions help support our content creation and keep WatchHub free for readers. We only recommend
-              products we believe offer genuine value, and our editorial content is never influenced by potential
-              commissions.
+              These commissions help support our content creation and keep Tick-Review free for readers. We only
+              recommend products we believe offer genuine value, and our editorial content is never influenced by
+              potential commissions.
             </AccordionContent>
           </AccordionItem>
 
           <AccordionItem value="item-12">
-            <AccordionTrigger>Can I contribute content to WatchHub?</AccordionTrigger>
+            <AccordionTrigger>Can I contribute content to Tick-Review?</AccordionTrigger>
             <AccordionContent>
               We occasionally accept guest contributions from experienced watch enthusiasts and industry professionals.
               If you have expertise in horology and a unique perspective to share, please contact our editorial team at
-              editorial@watchhub.com with your article pitch and writing samples. We look for well-researched, original
-              content that provides value to our readers.
+              editorial@tick-review.com with your article pitch and writing samples. We look for well-researched,
+              original content that provides value to our readers.
             </AccordionContent>
           </AccordionItem>
         </Accordion>
